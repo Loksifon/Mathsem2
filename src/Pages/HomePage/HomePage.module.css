@@ -1,0 +1,30 @@
+.title {
+  margin-top: 3rem;
+  font-size: 10rem;
+}
+
+.logo { 
+  margin-top: 2rem;
+}
+
+.subtitle {
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+
+.download {
+  background-color: #222222;
+  padding: 1rem 0.7rem;
+  border-radius: 0.5rem;
+  color: white;
+  transition-duration: 0.3s;
+
+}
+
+.download:hover {
+  background-color: #333333;
+}
+
+.home {
+  margin: auto;
+}

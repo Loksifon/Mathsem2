@@ -1,0 +1,32 @@
+.sidebar {
+  position: block;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 250px; /* Ширина сайдбара */
+  background-color: #ffffff;
+  overflow-y: auto;
+  padding-top: 2rem;
+}
+
+.navList {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.navItem {
+  margin-bottom: 8px; /* Расстояние между пунктами меню */
+}
+
+.navLink {
+  display: block;
+  padding: 10px;
+  text-decoration: none;
+  color: #333;
+  border-radius: 1rem;
+}
+
+.navLink:hover {
+  background-color: #ddd;
+}
